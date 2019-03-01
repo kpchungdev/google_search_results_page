@@ -1,1 +1,1 @@
-This is The Odin Project's first assignment labeled difficult. It assigned us to mimic Google's search page for the query: "build this webpage". Feel free to check it out <a href="https://kpchungdev.github.io/google_search_results_page/">here</a>.
+This is The Odin Project's first assignment labeled difficult. It assigned us to mimic Google's search page for the query: "build this webpage". Feel free to check it out <a href="https://kpchungdev.github.io/google_search_results_page/" target="_blank">here</a>.
