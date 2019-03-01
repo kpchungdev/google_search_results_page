@@ -1,0 +1,1 @@
+This is The Odin Project's first assignment labeled difficult. It assigned us to mimic Google's search page for the query: "build this webpage".
